@@ -1,31 +1,28 @@
 # Jingxiang Ma – 马敬翔
 
-I’m a PhD in math.  
+I’m a third year PhD in the University of Sheffield.  
 [Download CV (PDF)](cv.pdf)
 
 ---
 
 ## Research
 
-My research focuses on mathematics, including algebraic geometry, singularity theory, and related areas.
+I'm in general interested in mirror symmetry and birational geometry, using the tools from Gromov Witten theory, Frobenius manifolds etc.
 
 ---
 
 ## Publications
 
-- [Title of Paper](paper1.pdf), *Journal Name*, 2024  
-- [Another Paper](paper2.pdf), *Another Journal*, 2023
+- 
 
 ---
 
 ## Seminars
 
-- Resolution of Singularities – Graduate Seminar, May 2024  
-- McKay Correspondence – Research Talk, Dec 2023
+- 
 
 ---
 
 ## Teaching
 
-- Algebra I – University XYZ, Fall 2023  
-- Calculus II – University XYZ, Spring 2024
+- 
