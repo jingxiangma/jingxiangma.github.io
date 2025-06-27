@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Jingxiang Ma – 马敬翔</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body { max-width: 800px; margin: auto; padding: 2em; font-family: sans-serif; line-height: 1.6; }
+    h1, h2, h3 { color: #333; }
+    a { color: #0645AD; text-decoration: none; }
+    a:hover { text-decoration: underline; }
+    hr { border: none; border-top: 1px solid #ccc; margin: 2em 0; }
+  </style>
+</head>
+<body>
+  <div id="content">Loading...</div>
+
+  <script src="https://cdn.jsdelivr.net/npm/markdown-it/dist/markdown-it.min.js"></script>
+  <script>
+    fetch('index.md')
+      .then(response => response.text())
+      .then(text => {
+        const md = window.markdownit();
+        document.getElementById('content').innerHTML = md.render(text);
+      });
+  </script>
+</body>
+</html>
