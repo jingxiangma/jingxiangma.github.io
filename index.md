@@ -7,7 +7,7 @@ This webpage is still under construction.
 ---
 
 ## Research
-I'm generally interested in geometry and topology of algebraic varieties. My PhD project is about mirror symmetry and Gromov Witten invariants under birational transformations, and I use tools from Gromov Witten theory, Frobenius manifolds, representation theory etc. The examples that I've been working on are ADE singularities and their resolutions.
+I'm generally interested in geometry and topology of algebraic varieties. My PhD project is about mirror symmetry and Gromov Witten invariants under birational transformations, and I use tools from Gromov Witten theory, Frobenius manifolds, hypergeometric functions, some representation theory, etc. The examples that I've been working on are ADE singularities and their resolutions.
 
 ---
 
