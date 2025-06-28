@@ -23,6 +23,13 @@ I'm in general interested in mirror symmetry and birational geometry, using the 
 
 ---
 
+## Travellings
+
+-
+
+---
+
+
 ## Teaching
 
 - 
