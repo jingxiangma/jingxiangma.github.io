@@ -21,7 +21,7 @@ In this preprint joint with Andrea Brini and Ian Strachan, we relate the quantum
 
 ## Seminars
 
-In Sheffield we have learning seminars from time to time. In 2023 I organized a seminar on **singularity theory**, following Arnold's book 'Dynamical Systems VI: Singularity Theory I'. In 2025 I helped organized a seminar on **Frobenius manifolds and quantum cohomology**, which is about some selected topics on Dubrovin's conjecture and behaviours of quantum cohomology under birational transformations. I will put some materials on these seminars here in the future.
+In Sheffield we have learning seminars from time to time. In 2023 I organized a seminar on **singularity theory**, following Arnold's book 'Dynamical Systems VI: Singularity Theory I'. In 2025 I helped organizing a seminar on **Frobenius manifolds and quantum cohomology**, which is about some selected topics on Dubrovin's conjecture and behaviours of quantum cohomology under birational transformations. I will put some materials on these seminars here in the future.
 
 ---
 
