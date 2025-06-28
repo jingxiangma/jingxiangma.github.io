@@ -7,7 +7,7 @@ I’m a third year PhD in the University of Sheffield.
 
 ## Research
 
-I'm in general interested in mirror symmetry and birational geometry, using the tools from Gromov Witten theory, Frobenius manifolds, representation theory etc. The example that I've been working on are ADE singularities and their resolutions.
+I'm in general interested in mirror symmetry and birational geometry, using the tools from Gromov Witten theory, Frobenius manifolds, representation theory etc. The examples that I've been working on are ADE singularities and their resolutions.
 
 ---
 
