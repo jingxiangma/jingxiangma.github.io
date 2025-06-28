@@ -27,4 +27,4 @@ In Sheffield we have learning seminars from time to time. In 2023 I organized a 
 
 ## Travelling and talks
 
-Recently I've been given similar talks based on the [preprint](https://arxiv.org/abs/2501.05753), I will put some slides here in the future. A recent one is [this one](pisa2025June.pdf) in Pisa.
+Recently I've been giving similar talks based on the [preprint](https://arxiv.org/abs/2501.05753), I will put some slides here in the future. A recent one is [this one](pisa2025June.pdf) in Pisa.
