@@ -1,13 +1,13 @@
 # Jingxiang Ma(马敬翔)
 
-Welcome to mine webpage! I am a third year PhD in the [AGMP group at University of Sheffield](https://agmp.sites.sheffield.ac.uk/home). My supervisor is Andrea Brini. You can find mine email address in our group webpage. 
+Welcome to mine webpage! I am a third year PhD in the [AGMP group at University of Sheffield](https://agmp.sites.sheffield.ac.uk/home). My supervisor is Andrea Brini. You can find my email address in our group webpage. 
 
 This webpage is still under construction. 
 
 ---
 
 ## Research
-I'm generally interested in geometry and topology of algebraic varieties. My PhD project is about mirror symmetry and birational transformations, and I use tools from Gromov Witten theory, Frobenius manifolds, representation theory etc. The examples that I've been working on are ADE singularities and their resolutions.
+I'm generally interested in geometry and topology of algebraic varieties. My PhD project is about mirror symmetry and Gromov Witten invariants under birational transformations, and I use tools from Gromov Witten theory, Frobenius manifolds, representation theory etc. The examples that I've been working on are ADE singularities and their resolutions.
 
 ---
 
