@@ -1,10 +1,8 @@
 # Jingxiang Ma(马敬翔)
 
-Welcome to mine webpage! I’m a third year PhD in the [AGMP group at University of Sheffield](https://agmp.sites.sheffield.ac.uk/home). My supervisor is Andrea Brini. You can find mine email in our group webpage. 
+Welcome to mine webpage! I’m a third year PhD in the [AGMP group at University of Sheffield](https://agmp.sites.sheffield.ac.uk/home). My supervisor is Andrea Brini. You can find mine email address in our group webpage. 
 
 This webpage is still under construction. 
-
-[Download CV (PDF)](cv.pdf)(this one is empty). 
 
 ---
 
@@ -23,10 +21,10 @@ In this preprint joint with Andrea Brini and Ian Strachan, we relate the quantum
 
 ## Seminars
 
-In Sheffield we have learning seminars from time to time. In 2023 I organized a seminar on **singularity theory**, following Arnold's book. In 2025 I helped organized a seminar on **Frobenius manifolds and quantum cohomology**, which is about some selected topics on Dubrovin's conjecture and behaviours of quantum cohomology under birational transformations. I will put the materials here in the future.
+In Sheffield we have learning seminars from time to time. In 2023 I organized a seminar on **singularity theory**, following Arnold's book 'Dynamical Systems VI: Singularity Theory I'. In 2025 I helped organized a seminar on **Frobenius manifolds and quantum cohomology**, which is about some selected topics on Dubrovin's conjecture and behaviours of quantum cohomology under birational transformations. I will put some materials on these seminars here in the future.
 
 ---
 
 ## Travelling and talks
 
-Recently I've been given similar talks based on the [preprint](https://arxiv.org/abs/2501.05753), I will put some slides here in the future.
+Recently I've been given similar talks based on the [preprint](https://arxiv.org/abs/2501.05753), I will put some slides here in the future. A recent one is [this one](pisa2025June.pdf) in Pisa.
