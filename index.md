@@ -2,8 +2,6 @@
 
 Welcome to my webpage! I am a third year PhD in the [AGMP group at University of Sheffield](https://agmp.sites.sheffield.ac.uk/home). My supervisor is Andrea Brini. You can find my email address in our group webpage. 
 
-This webpage is still under construction. 
-
 ---
 
 ## Research
@@ -21,10 +19,16 @@ In this preprint joint with Andrea Brini and Ian Strachan, we relate the quantum
 
 ## Seminars
 
-In Sheffield we have learning seminars from time to time. In 2023 I organized a seminar on **singularity theory**, following Arnold's book 'Dynamical Systems VI: Singularity Theory I'. In 2025 I helped organizing a seminar on **Frobenius manifolds and quantum cohomology**, which is about some selected topics on Dubrovin's conjecture and behaviours of quantum cohomology under birational transformations. I will upload some materials from these seminars here in the future.
+In Sheffield we have learning seminars from time to time. In autumn 2023, I organized a seminar on **singularity theory**, following Arnold's book 'Dynamical Systems VI: Singularity Theory I'. In spring 2025,  I helped organizing a seminar on **Frobenius manifolds and quantum cohomology**, which is about some selected topics on Dubrovin's conjecture and behaviours of quantum cohomology under birational transformations. I will upload some materials from these seminars here in the future.
 
 ---
 
 ## Travelling and talks
 
 Recently I've been giving similar talks based on the [preprint](https://arxiv.org/abs/2501.05753), I will put some slides here in the future. A recent one is [this one](pisa2025June.pdf) in Pisa.
+
+
+
+---
+
+_Last updated: July 1, 2025_
