@@ -1,6 +1,6 @@
 # Jingxiang Ma(马敬翔)
 
-Welcome to my webpage! I am doing a PhD in the [AGMP group at University of Sheffield](https://agmp.sites.sheffield.ac.uk/home) from Oct 2022. My supervisor is [Andrea Brini](https://andrea-brini.sites.sheffield.ac.uk/). 
+Welcome to my webpage! I’m a PhD student in the [AGMP group at the University of Sheffield](https://agmp.sites.sheffield.ac.uk/), where I’ve been studying since October 2022. My supervisor is [Andrea Brini](https://andrea-brini.sites.sheffield.ac.uk/). 
 
 Email address: jma75[at]sheffield[dot]ac[dot]uk.
 
