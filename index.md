@@ -13,9 +13,9 @@ I'm interested in topics lying in the intersection of algebraic geometry and mat
 
 ## Papers
 
-1. [Dubrovin duality and mirror symmetry for ADE resolutions](https://arxiv.org/abs/2501.05753)
+1. [Dubrovin duality and mirror symmetry for ADE resolutions](https://arxiv.org/abs/2501.05753), to appear in *Proc. A*.
 
-In this preprint joint with Andrea Brini and Ian Strachan, we relate the quantum cohomology of ADE resolutions to Frobenius manifolds on orbit spaces of extended affine Weyl groups, as well as Frobenius manifolds associated to the spectral curve of affine realistic Toda chain.
+In this work joint with Andrea Brini and Ian Strachan, we relate the quantum cohomology of ADE resolutions to Frobenius manifolds on orbit spaces of extended affine Weyl groups, as well as Frobenius manifolds associated to the spectral curve of affine realistic Toda chain.
 
 ---
 
@@ -29,12 +29,22 @@ In spring 2025,  I co-organized a seminar on **Frobenius manifolds and quantum c
 
 ---
 
-## Travelling and talks
+## Talks
 
-Recently I've been giving similar talks based on the [preprint](https://arxiv.org/abs/2501.05753), I will put some slides here in the future. A recent one is [this one](pisa2025June.pdf) in Pisa.
+Algebraic Geometry Seminar (zoom talk), Ohio State University , 30 Sep. 2025
+
+Enumerative Geometry and Geometric Representation Theory, Pisa, 23 June - 4 Jul. 2025 ([slides](pisa2025June.pdf) from this talk)
+
+New Trends in Moduli, Intergrability and Deformations, Padova, 9-12 June 2025.
+
+Group Actions and Symplectic Singularities, Liile, 2-6 June 2025
+
+Calf seminar, Nottingham, 24 March 2025
 
 
 
----
 
-_Last updated: Sep. 1, 2025_
+
+
+
+_Last updated: 24 Sep., 2025_
