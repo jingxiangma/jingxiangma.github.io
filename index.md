@@ -13,7 +13,7 @@ I'm interested in topics lying in the intersection of algebraic geometry and mat
 
 ## Papers
 
-1. [Dubrovin duality and mirror symmetry for ADE resolutions](https://arxiv.org/abs/2501.05753), to appear in *Proc. A*.
+1. [Dubrovin duality and mirror symmetry for ADE resolutions](https://arxiv.org/abs/2501.05753), to appear in *Proc.Roy.Soc.A.*.
 
 In this work joint with Andrea Brini and Ian Strachan, we relate the quantum cohomology of ADE resolutions to Frobenius manifolds on orbit spaces of extended affine Weyl groups, as well as Frobenius manifolds associated to the spectral curve of affine realistic Toda chain.
 
@@ -47,4 +47,4 @@ Calf seminar, Nottingham, 24 March 2025
 
 
 
-_Last updated: 24 Sep., 2025_
+_Last updated: 2 Oct., 2025_
