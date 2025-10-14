@@ -31,6 +31,8 @@ In spring 2025,  I co-organized a seminar on **Frobenius manifolds and quantum c
 
 ## Talks
 
+Junior Geometry Seminar, Cambridge, 10 Oct. 2025
+
 Algebraic Geometry Seminar (zoom talk), Ohio State University , 30 Sep. 2025
 
 Enumerative Geometry and Geometric Representation Theory, Pisa, 23 June - 4 Jul. 2025 ([slides](pisa2025June.pdf) from this talk)
