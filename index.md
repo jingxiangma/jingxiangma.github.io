@@ -2,6 +2,8 @@
 
 Welcome to my webpage! I'm a PhD student in the [AGMP group at the University of Sheffield](https://agmp.sites.sheffield.ac.uk/), where I've been studying since October 2022. My supervisor is [Andrea Brini](https://andrea-brini.sites.sheffield.ac.uk/). 
 
+You can find my CV [here](CV_JingxiangMa.pdf).
+
 Email address: jma75[at]sheffield[dot]ac[dot]uk.
 
 ---
@@ -55,4 +57,4 @@ Integrable Systems: Geometrical and Analytic Approaches(poster), SISSA Trieste, 
 
 
 
-_Last updated: 14 Oct., 2025_
+_Last updated: 15 Oct., 2025_
