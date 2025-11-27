@@ -2,7 +2,7 @@
 
 Welcome to my webpage! I'm a PhD student in the [AGMP group at the University of Sheffield](https://agmp.sites.sheffield.ac.uk/), where I've been studying since October 2022. My supervisor is [Andrea Brini](https://andrea-brini.sites.sheffield.ac.uk/). 
 
-I'm currently on the job market. You can find my CV [here](cv.pdf).
+I'm currently on the job market. You can find my CV [here](Jingxiang_Ma_CV.pdf) .
 
 Email address: jma75[at]sheffield[dot]ac[dot]uk.
 
@@ -15,7 +15,7 @@ I'm interested in topics lying in the intersection of algebraic geometry and mat
 
 ## Papers
 
-1. [*Dubrovin duality and mirror symmetry for ADE resolutions*](https://arxiv.org/abs/2501.05753), to appear in *Proc. Roy. Soc. A.*
+1. [*Dubrovin duality and mirror symmetry for ADE resolutions*](https://arxiv.org/abs/2501.05753), accepted by [Proc. Roy. Soc. A.](https://doi.org/10.1098/rspa.2025.0047)
 
 In this work joint with Andrea Brini and Ian Strachan, we relate the quantum cohomology of ADE resolutions to Frobenius manifolds on orbit spaces of extended affine Weyl groups, as well as Frobenius manifolds associated to the spectral curve of affine realistic Toda chain.
 
