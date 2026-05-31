@@ -19,7 +19,7 @@ I'm interested in topics lying in the intersection of algebraic geometry and mat
 
 In this work joint with Andrea Brini and Ian Strachan, we relate the quantum cohomology of ADE resolutions to Frobenius manifolds on orbit spaces of extended affine Weyl groups, as well as Frobenius manifolds associated to the spectral curve of affine realistic Toda chain.
 
-2. Towards orbifold quantum cohomology of foldings of ADE resolutions, in preparation
+2. *Towards orbifold quantum cohomology of foldings of ADE resolutions*, in preparation
 
 3. *On higher genus Crepant Resolution Conjecture for type D du Val singularities*, with Andrea Brini, in preparation
 
@@ -33,7 +33,9 @@ In autumn 2023, I organized and gave two talks in a seminar on **singularity the
 
 In spring 2025,  I co-organized and gave two talks in a seminar on **Frobenius manifolds and quantum cohomology**, which is about some selected topics on Dubrovin's conjecture and behaviours of quantum cohomology under birational transformations. I gave two talks in this seminar. Notes from this seminar can be found [here](https://drive.google.com/open?id=1dZMM-rtq29UvBs3KoKJ6YlxuS4Fl7uXk&usp=drive_fs).
 
-In spring 2026, I gave a talk about affine Lie algebra in a seminar on Moonshine, organized by [Mark Chambers](https://sites.google.com/sheffield.ac.uk/markchambers/home?authuser=0).
+In spring 2026, I gave a talk about affine Lie algebra in a seminar on Moonshine, organized by [Mark Chambers](https://sites.google.com/sheffield.ac.uk/markchambers/home?authuser=0), notes from the seminar can be found there.
+
+In spring 2026, I gave a talk about quiver DT invariants in a seminar on Donaldson-Thomas invariant. The [note](quiver_DT.pdf) from my talk . 
 
 ---
 
