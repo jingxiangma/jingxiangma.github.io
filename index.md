@@ -21,8 +21,6 @@ In this work joint with Andrea Brini and Ian Strachan, we relate the quantum coh
 
 2. *Towards orbifold quantum cohomology of foldings of ADE resolutions*, in preparation
 
-3. *On higher genus Crepant Resolution Conjecture for type D du Val singularities*, with Andrea Brini, in preparation
-
 ---
 
 ## Seminars and notes
@@ -65,4 +63,4 @@ Integrable Systems: Geometrical and Analytic Approaches(poster), SISSA Trieste, 
 
 
 
-_Last updated: 14 April, 2026_
+_Last updated: 31 May, 2026_
