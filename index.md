@@ -55,6 +55,8 @@ Integrable Systems and Mathematical Physics Seminar, Glasgow, 25 June 2024
 
 Integrable Systems: Geometrical and Analytic Approaches(poster), SISSA Trieste, 3-7 June 2024
 
+---
+
 ## More
 
 Check my [GitHub page](https://github.com/jingxiangma) if you are interested.
