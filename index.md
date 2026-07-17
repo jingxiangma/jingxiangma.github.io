@@ -13,13 +13,11 @@ I'm interested in topics lying in the intersection of algebraic geometry and mat
 
 ---
 
-## Papers
+## Papers and preprints
 
-1. [*Dubrovin duality and mirror symmetry for ADE resolutions*](https://arxiv.org/abs/2501.05753), accepted by [Proc. Roy. Soc. A.](https://doi.org/10.1098/rspa.2025.0047)
-
-In this work joint with Andrea Brini and Ian Strachan, we relate the quantum cohomology of ADE resolutions to Frobenius manifolds on orbit spaces of extended affine Weyl groups, as well as Frobenius manifolds associated to the spectral curve of affine realistic Toda chain.
-
-2. *Towards orbifold quantum cohomology of foldings of ADE resolutions*, in preparation
+1. [*Dubrovin duality and mirror symmetry for $ADE$ resolutions*](https://arxiv.org/abs/2501.05753), with Andrea Brini and Ian Strachan. Accepted by [Proc. Roy. Soc. A.](https://doi.org/10.1098/rspa.2025.0047) 
+1. [Involution-equivariant topological recursion and mirror symmetry for the affine binary dihedral Calabi--Yau threefold](https://arxiv.org/abs/2607.07355), with Bohan Fang and Zhuoming Lan.
+1. [On orbifold quantum cohomology of Foldings of $ADE$ resolutions](https://arxiv.org/abs/2607.11766)
 
 ---
 
@@ -38,6 +36,8 @@ In spring 2026, I gave a talk about quiver DT invariants in a seminar on Donalds
 ---
 
 ## Research talks
+
+Mathematical Physics Seminar, Wuhan University, 12 June. 2026
 
 Junior Geometry Seminar, Cambridge, 10 Oct. 2025
 
@@ -65,4 +65,4 @@ Check my [GitHub page](https://github.com/jingxiangma) if you are interested.
 
 
 
-_Last updated: 23 June, 2026_
+_Last updated: 17 July, 2026_
