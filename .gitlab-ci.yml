@@ -1,10 +1,10 @@
 pages:
   script:
     - mkdir public
-    - cp index.html index.md Jingxiang_Ma_CV.pdf pisa2025June.pdf public/
+    - cp index.html index.md public/
+    - cp -R pdfs singularity_theory_seminar_2023 frobenius_manifold_seminar_2025 public/
   artifacts:
     paths:
       - public
   only:
     - main
-

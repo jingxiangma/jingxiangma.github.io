@@ -6,7 +6,7 @@ From autumn 2026 I'm a postdoc at the [Ohio State University](https://math.osu.e
 
 I did my PhD in the [AGMP group at the University of Sheffield](https://agmp.sites.sheffield.ac.uk/) between October 2022 and March 2026. My supervisor is [Andrea Brini](https://andrea-brini.sites.sheffield.ac.uk/). 
 
-You can find my CV [here](Jingxiang_Ma_CV.pdf) .
+You can find my CV [here](pdfs/Jingxiang_Ma_CV.pdf) .
 
 Email address: ma.3149@osu.edu
 
@@ -31,19 +31,19 @@ My PhD project is about mirror symmetry and Gromov Witten invariants under birat
 
 In Sheffield we have learning seminars regularly.
 
-In autumn 2023, I organized and gave two talks in a seminar on **singularity theory**, following Arnold's book 'Dynamical Systems VI: Singularity Theory I'. Notes from this seminar can be found [here](https://drive.google.com/open?id=15tSNSmWFvr_BC6FYD0jfV5DnRvLfbFEN&usp=drive_fs).
+In autumn 2023, I organized and gave two talks in a seminar on **singularity theory**, following Arnold's book 'Dynamical Systems VI: Singularity Theory I'. Notes from this seminar can be found [here](singularity_theory_seminar_2023/).
 
-In spring 2025,  I co-organized and gave two talks in a seminar on **Frobenius manifolds and quantum cohomology**, which is about some selected topics on Dubrovin's conjecture and behaviours of quantum cohomology under birational transformations. I gave two talks in this seminar. Notes from this seminar can be found [here](https://drive.google.com/open?id=1dZMM-rtq29UvBs3KoKJ6YlxuS4Fl7uXk&usp=drive_fs).
+In spring 2025,  I co-organized and gave two talks in a seminar on **Frobenius manifolds and quantum cohomology**, which is about some selected topics on Dubrovin's conjecture and behaviours of quantum cohomology under birational transformations. I gave two talks in this seminar. Notes from this seminar can be found [here](frobenius_manifold_seminar_2025/).
 
 In spring 2026, I gave a talk about affine Lie algebra in a seminar on Moonshine, organized by [Mark Chambers](https://sites.google.com/sheffield.ac.uk/markchambers/home?authuser=0), notes from the seminar can be found there.
 
-In spring 2026, I gave a talk about quiver DT invariants in a seminar on Donaldson-Thomas invariant. The [note](quiver_DT.pdf) from my talk . 
+In spring 2026, I gave a talk about quiver DT invariants in a seminar on Donaldson-Thomas invariant. The [note](pdfs/quiver_DT.pdf) from my talk .
 
 ---
 
 ## Research talks
 
-Mathematics Series Series, Great Bay University, 1 Sept. 2026 ([slides](mirror_symmetry_talk.pdf) from this talk)
+Mathematics Series Series, Great Bay University, 1 Sept. 2026 ([slides](pdfs/mirror_symmetry_talk.pdf) from this talk)
 
 Mathematical Physics Seminar, Wuhan University, 12 June 2026
 
@@ -51,7 +51,7 @@ Junior Geometry Seminar, Cambridge, 10 Oct. 2025
 
 Algebraic Geometry Seminar (zoom talk), Ohio State University , 30 Sep. 2025
 
-Enumerative Geometry and Geometric Representation Theory, Pisa, 23 June - 4 Jul. 2025 ([slides](pisa2025June.pdf) from this talk)
+Enumerative Geometry and Geometric Representation Theory, Pisa, 23 June - 4 Jul. 2025 ([slides](pdfs/pisa2025June.pdf) from this talk)
 
 New Trends in Moduli, Intergrability and Deformations, Padova, 9-12 June 2025.
 
