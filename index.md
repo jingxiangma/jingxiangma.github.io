@@ -1,15 +1,21 @@
 # Jingxiang Ma(马敬翔)
 
-Welcome to my webpage! I'm a PhD student in the [AGMP group at the University of Sheffield](https://agmp.sites.sheffield.ac.uk/), where I've been studying since October 2022. My supervisor is [Andrea Brini](https://andrea-brini.sites.sheffield.ac.uk/). 
+Welcome to my webpage! 
+
+From autumn 2026 I'm a [postdoc](https://math.osu.edu/people/ma.3149) at the Ohio State University.
+
+I did my PhD in the [AGMP group at the University of Sheffield](https://agmp.sites.sheffield.ac.uk/) between October 2022 and March 2026. My supervisor is [Andrea Brini](https://andrea-brini.sites.sheffield.ac.uk/). 
 
 You can find my CV [here](Jingxiang_Ma_CV.pdf) .
 
-Email address: jma75[at]sheffield[dot]ac[dot]uk.
+Email address: ma.3149@osu.edu
 
 ---
 
 ## Research
-I'm interested in topics lying in the intersection of algebraic geometry and mathematical physics. My PhD project is about mirror symmetry and Gromov Witten invariants under birational transformations, and I use tools from Gromov Witten theory, Frobenius manifolds, hypergeometric functions, representation theory, etc. The examples that I've been working on are ADE singularities and their minimal resolutions.
+I'm interested in topics lying in the intersection of algebraic geometry and mathematical physics. 
+
+My PhD project is about mirror symmetry and Gromov Witten invariants under birational transformations, and I use tools from Gromov Witten theory, Frobenius manifolds, hypergeometric functions, representation theory, etc. The examples that I've been working on are ADE singularities and their minimal resolutions. You can find my PhD thesis [here](https://etheses.whiterose.ac.uk/id/eprint/39150/).
 
 ---
 
@@ -17,7 +23,7 @@ I'm interested in topics lying in the intersection of algebraic geometry and mat
 
 1. [*Dubrovin duality and mirror symmetry for $ADE$ resolutions*](https://arxiv.org/abs/2501.05753), with Andrea Brini and Ian Strachan. Accepted by [Proc. Roy. Soc. A.](https://doi.org/10.1098/rspa.2025.0047) 
 1. [Involution-equivariant topological recursion and mirror symmetry for the affine binary dihedral Calabi--Yau threefold](https://arxiv.org/abs/2607.07355), with Bohan Fang and Zhuoming Lan.
-1. [On orbifold quantum cohomology of Foldings of $ADE$ resolutions](https://arxiv.org/abs/2607.11766)
+1. [On orbifold quantum cohomology of foldings of $ADE$ resolutions](https://arxiv.org/abs/2607.11766)
 
 ---
 
@@ -37,7 +43,9 @@ In spring 2026, I gave a talk about quiver DT invariants in a seminar on Donalds
 
 ## Research talks
 
-Mathematical Physics Seminar, Wuhan University, 12 June. 2026
+Mathematics Series Series, Great Bay University, 1 Sept. 2026 ([slides](mirror_symmetry_talk.pdf) from this talk)
+
+Mathematical Physics Seminar, Wuhan University, 12 June 2026
 
 Junior Geometry Seminar, Cambridge, 10 Oct. 2025
 
@@ -65,4 +73,4 @@ Check my [GitHub page](https://github.com/jingxiangma) if you are interested.
 
 
 
-_Last updated: 17 July, 2026_
+_Last updated: 23 September, 2026_
