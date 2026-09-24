@@ -43,7 +43,7 @@ In spring 2026, I gave a talk about quiver DT invariants in a seminar on Donalds
 
 ## Research talks
 
-Mathematics Series Series, Great Bay University, 1 Sept. 2026 ([slides](pdfs/mirror_symmetry_talk.pdf) from this talk)
+Mathematics Seminar Series, Great Bay University, 1 Sept. 2026 ([slides](pdfs/mirror_symmetry_talk.pdf) from this talk)
 
 Mathematical Physics Seminar, Wuhan University, 12 June 2026
 
