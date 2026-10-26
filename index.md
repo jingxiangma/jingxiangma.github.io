@@ -2,7 +2,7 @@
 
 Welcome to my webpage! 
 
-Since September 2026, I have been a postdoc at the [Ohio State University](https://math.osu.edu).
+Since September 2026, I am a postdoc at the [Ohio State University](https://math.osu.edu) working with [Hsian-Hua Tseng](https://math.osu.edu/people/tseng.109).
 
 I did my PhD in the [AGMP group at the University of Sheffield](https://agmp.sites.sheffield.ac.uk/) between October 2022 and July 2026. My supervisor is [Andrea Brini](https://andrea-brini.sites.sheffield.ac.uk/).
 
