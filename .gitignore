@@ -10,7 +10,16 @@ __pycache__/
 .vscode/
 
 # LaTeX
+*.tex
 *.aux
 *.log
 *.out
 *.toc
+*.fls
+*.fdb_latexmk
+*.synctex
+*.synctex.gz
+*.bbl
+*.blg
+*.lof
+*.lot
