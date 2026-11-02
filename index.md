@@ -23,7 +23,7 @@ My PhD project is about mirror symmetry and Gromov Witten invariants under birat
 
 1. [Dubrovin duality and mirror symmetry for $ADE$ resolutions](https://arxiv.org/abs/2501.05753), with Andrea Brini and Ian Strachan. Accepted by [Proc. Roy. Soc. A.](https://doi.org/10.1098/rspa.2025.0047)
 1. [Involution-equivariant topological recursion and mirror symmetry for the affine binary dihedral Calabi--Yau threefold](https://arxiv.org/abs/2607.07355), with Bohan Fang and Zhuoming Lan.
-1. [On orbifold quantum cohomology of foldings of $ADE$ resolutions](https://arxiv.org/abs/2607.11766), single authored.
+1. [On orbifold quantum cohomology of foldings of $ADE$ resolutions](https://arxiv.org/abs/2607.11766).
 1. [Integral and higher-genus quantum McKay correspondence in type $D$](https://arxiv.org/abs/2610.22359), with Andrea Brini.
 
 ---
