@@ -21,10 +21,10 @@ My PhD project is about mirror symmetry and Gromov Witten invariants under birat
 
 ## Papers and preprints
 
-1. [Dubrovin duality and mirror symmetry for $ADE$ resolutions](https://arxiv.org/abs/2501.05753), with Andrea Brini and Ian Strachan. Accepted by [Proc. Roy. Soc. A.](https://doi.org/10.1098/rspa.2025.0047)
-1. [Involution-equivariant topological recursion and mirror symmetry for the affine binary dihedral Calabi--Yau threefold](https://arxiv.org/abs/2607.07355), with Bohan Fang and Zhuoming Lan.
-1. [On orbifold quantum cohomology of foldings of $ADE$ resolutions](https://arxiv.org/abs/2607.11766).
-1. [Integral and higher-genus quantum McKay correspondence in type $D$](https://arxiv.org/abs/2610.22359), with Andrea Brini.
+1. (with Andrea Brini and Ian Strachan) Dubrovin duality and mirror symmetry for $ADE$ resolutions, [[arXiv](https://arxiv.org/abs/2501.05753)], [[Proc. Roy. Soc. A.](https://doi.org/10.1098/rspa.2025.0047)].
+1. (with Bohan Fang and Zhuoming Lan) Involution-equivariant topological recursion and mirror symmetry for the affine binary dihedral Calabi--Yau threefold, [[arXiv](https://arxiv.org/abs/2607.07355)], submitted.
+1. On orbifold quantum cohomology of foldings of $ADE$ resolutions, [[arXiv](https://arxiv.org/abs/2607.11766)], submitted.
+1. (with Andrea Brini) Integral and higher-genus quantum McKay correspondence in type $D$, [[arXiv](https://arxiv.org/abs/2610.22359)], submitted.
 
 ---
 
@@ -74,4 +74,4 @@ Check my [GitHub page](https://github.com/jingxiangma) if you are interested.
 
 
 
-_Last updated: 26 October, 2026_
+_Last updated: 6 November, 2026_
