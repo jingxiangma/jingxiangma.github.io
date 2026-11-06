@@ -21,10 +21,10 @@ My PhD project is about mirror symmetry and Gromov Witten invariants under birat
 
 ## Papers and preprints
 
-1. (with Andrea Brini and Ian Strachan) Dubrovin duality and mirror symmetry for $ADE$ resolutions, [[arXiv](https://arxiv.org/abs/2501.05753)], [[Proc. Roy. Soc. A.](https://doi.org/10.1098/rspa.2025.0047)].
-1. (with Bohan Fang and Zhuoming Lan) Involution-equivariant topological recursion and mirror symmetry for the affine binary dihedral Calabi--Yau threefold, [[arXiv](https://arxiv.org/abs/2607.07355)], submitted.
-1. On orbifold quantum cohomology of foldings of $ADE$ resolutions, [[arXiv](https://arxiv.org/abs/2607.11766)], submitted.
-1. (with Andrea Brini) Integral and higher-genus quantum McKay correspondence in type $D$, [[arXiv](https://arxiv.org/abs/2610.22359)], submitted.
+1. (with Andrea Brini and Ian Strachan) Dubrovin duality and mirror symmetry for $ADE$ resolutions, [[arXiv:2501.05753](https://arxiv.org/abs/2501.05753)], [[Proc. Roy. Soc. A.](https://doi.org/10.1098/rspa.2025.0047)].
+1. (with Bohan Fang and Zhuoming Lan) Involution-equivariant topological recursion and mirror symmetry for the affine binary dihedral Calabi--Yau threefold, [[arXiv:2607.07355](https://arxiv.org/abs/2607.07355)], submitted.
+1. On orbifold quantum cohomology of foldings of $ADE$ resolutions, [[arXiv:2607.11766](https://arxiv.org/abs/2607.11766)], submitted.
+1. (with Andrea Brini) Integral and higher-genus quantum McKay correspondence in type $D$, [[arXiv:2610.22359](https://arxiv.org/abs/2610.22359)], submitted.
 
 ---
 
